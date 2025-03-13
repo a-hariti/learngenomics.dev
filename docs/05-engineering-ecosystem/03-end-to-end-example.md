@@ -38,7 +38,7 @@ Next, you'll need some sequencing data. The [1000 genomes
 project](https://www.internationalgenome.org/) graciously hosts all of the FASTQ
 files generated as part of the project for the public to download. Typically,
 one might combine multiple FASTQ files from the same sample together to have
-sufficient of evidence for calls (you can view an example directory of files
+sufficient evidence for calls (you can view an example directory of files
 [here](ftp://ftp.1000genomes.ebi.ac.uk/vol1/ftp/phase3/data/HG00133/sequence_read/)).
 To keep computation time small for this example, we will download only a single
 pair of FASTQ files.
